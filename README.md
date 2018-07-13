@@ -31,6 +31,10 @@ It's a card matching memory game to test your memory power with lots of fun.....
 
 Try to grab all the 3 stars while playing the game ,don't lose hope while playing the game.
 
+### Screenshots
+
+(https://raw.githubusercontent.com/Arunudacity/project-memory-game-master/master/img/Capture.JPG)
+
 
 ## External libraries Used
 
