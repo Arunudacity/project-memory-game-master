@@ -2,6 +2,7 @@
 
 It's a card matching memory game to test your memory power with lots of fun.....
 
+
 ## How to Download the game
 
 1. Download or clone the repository on your machine.
@@ -30,10 +31,6 @@ It's a card matching memory game to test your memory power with lots of fun.....
 8. And you can restart the game when ever you want by clicking he restart button.
 
 Try to grab all the 3 stars while playing the game ,don't lose hope while playing the game.
-
-### Screenshots
-
-(https://raw.githubusercontent.com/Arunudacity/project-memory-game-master/master/img/Capture.JPG)
 
 
 ## External libraries Used
