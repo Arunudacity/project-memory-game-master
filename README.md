@@ -13,13 +13,9 @@ It's a card matching memory game to test your memory power with lots of fun.....
 ### Rules and Regulations
 
 1.The player flips one card over to reveal its underlying symbol.
-
 2.The player then turns over a second card, trying to find the corresponding card with the same symbol.
-
 3.If the cards match, both cards stay flipped over.
-
 4.If the cards do not match, both cards are flipped face down.
-
 5.The game ends once all cards have been correctly matched and the score is display along with time taken to complete the game.
 
 ## Score Calculation
